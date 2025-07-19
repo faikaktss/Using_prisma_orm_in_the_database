@@ -76,7 +76,7 @@ Yanıt:
 Hello typescript
 ```
 
-## 🧠 Kullanılan Teknolojiler
+## 🧠 Kullanılan Teknolojiler.
 
 - Node.js
 - Express.js
